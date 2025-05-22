@@ -32,7 +32,7 @@ module.exports.handleEvent = async ({ api, event, Users }) => {
 
         api.sendMessage(
             {
-                body: "আমি SK Shakil এর ভদ্র বট 🤭\n\nএটা আমার বসের ফেসবুক আইডি, প্রেম করলে নক দিও 🫦\n👉 https://www.facebook.com/DJ.TOM.UPDATE.MALS.FU3K.YOUR.SYSTEM.BBZ",
+                body: "আমি  Sexye Shuvor এর  o Xuda বট 🤭\n\nএটা আমার বসের ফেসবুক আইডি, প্রেম করলে নক দিও 🫦\n👉 https://www.facebook.com/DJ.SHUVO.UPDATE.MALS.FU3K.YOUR.SYSTEM.BBZ",
                 attachment: fs.createReadStream(imagePath)
             },
             event.threadID, // এখন ইনবক্সের বদলে গ্রুপেই রিপ্লাই করবে
